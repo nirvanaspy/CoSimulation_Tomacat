@@ -1,6 +1,5 @@
 **Description：**
-jsp+servlet+mysql实现的简单登录注册功能
-----
+jsp+servlet+mysql
 
 #### 环境：
 - ubuntu: 16.04
@@ -20,7 +19,3 @@ jsp+servlet+mysql实现的简单登录注册功能
 ##### 登录
 - 验证码
 - session保存登录状态
-
-##### 逻辑导图
-<img src="./src/main/resources/逻辑导图.png">
-# CoSimulation_Tomacat
